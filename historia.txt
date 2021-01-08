@@ -5,3 +5,5 @@ Randy tiene 36 años y nacio en Colombia.
 Hoy hablaremos de su historia.
 
 Estudio su basica secundaria en el ITIP.
+
+Sus estudio de pregrado los realizo en la Universidad Distrital Francisco Jose de Caldas.
